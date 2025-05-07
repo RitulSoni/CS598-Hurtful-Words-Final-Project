@@ -1,6 +1,8 @@
 # Reproducing and Extending Bias Analysis in Clinical Contextual Word Embeddings
 
 This repository contains the code and report for a final project for CS 598 [CS598 Deep Learning for Healthcare] at the University of Illinois Urbana-Champaign, completed by Ritul Soni (rsoni27@illinois.edu).
+
+
 Video Report Link : https://mediaspace.illinois.edu/media/t/1_ikioxjcw
 ## Overview
 
