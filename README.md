@@ -23,7 +23,7 @@ Zhang, H., Lu, A. X., Abdalla, M., McDermott, M. B., & Ghassemi, M. (2020). Hurt
 
 * `data_preprocesssing.ipynb`: Jupyter notebook for loading and preprocessing MIMIC-III CSV data.
 * `CS598_Final_Project.ipynb`: Jupyter notebook for loading the pre-trained model, calculating template bias scores, running the downstream task, evaluating fairness, and generating results/plots.
-* `report.pdf`: (Recommended) Include the final compiled PDF report here.
+* `report.pdf`: Include the final compiled PDF report here.
 * `references.bib`: Bibliography file for the report.
 * `requirements.txt`: Python package dependencies.
 * `README.md`: This file.
