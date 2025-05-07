@@ -1,7 +1,7 @@
 # Reproducing and Extending Bias Analysis in Clinical Contextual Word Embeddings
 
 This repository contains the code and report for a final project for CS 598 [CS598 Deep Learning for Healthcare] at the University of Illinois Urbana-Champaign, completed by Ritul Soni (rsoni27@illinois.edu).
-
+Video Report Link : https://mediaspace.illinois.edu/media/t/1_ikioxjcw
 ## Overview
 
 This project reproduces core methodologies from the paper "Hurtful Words: Quantifying Biases in Clinical Contextual Word Embeddings" by Zhang et al. (2020). We focus on quantifying gender bias within the `Baseline_Clinical_BERT` model provided by the original authors, using the full MIMIC-III clinical dataset (v1.4).
